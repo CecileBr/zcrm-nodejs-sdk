@@ -4,8 +4,7 @@
   "description": "Node SDK for Zoho CRM",
   "main": "lib/js/ZCRMRestClient",
   "dependencies": {
-    "fs": "0.0.1-security",
-    "properties-reader": "0.0.16",
+    "dotenv": "^6.2.0",
     "querystring": "^0.2.0",
     "request": "^2.81.0"
   },
